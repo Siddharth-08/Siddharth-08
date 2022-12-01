@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/siddharth-ranjan-a8b7bb1b0/">
+  <a href="https://www.linkedin.com/in/siddharth0810/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/  align="center">
   </a>
 </div>
