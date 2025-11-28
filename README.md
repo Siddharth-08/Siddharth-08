@@ -24,5 +24,5 @@ During my career, I have worked with cross-functional teams to analyze complex d
 I am always eager to learn new techniques and tools to enhance my analytical skills and contribute to projects that have a measurable impact. Whether it's through automation, data visualization, or predictive modeling, I thrive on using data to solve problems and improve outcomes.
 
 Let’s connect if you're interested in discussing data trends, analytics tools, or potential opportunities. 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
