@@ -17,5 +17,12 @@
    ---
    :man_technologist:
    
-   I am an aspiring Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+   I am a detail-oriented and results-driven Data Analyst with 3 years of experience in leveraging data to drive business insights and decision-making. I specialize in data cleaning, statistical analysis, and creating actionable reports using tools like Excel, SQL, Python, Tableau, Power BI. 
+
+During my career, I have worked with cross-functional teams to analyze complex datasets, identify trends, and provide recommendations that support organizational goals. I am passionate about transforming raw data into meaningful information and contributing to data-driven strategies that optimize business processes.
+
+I am always eager to learn new techniques and tools to enhance my analytical skills and contribute to projects that have a measurable impact. Whether it's through automation, data visualization, or predictive modeling, I thrive on using data to solve problems and improve outcomes.
+
+Let’s connect if you're interested in discussing data trends, analytics tools, or potential opportunities. 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
